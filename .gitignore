@@ -10,261 +10,105 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1,AtB
 http://186.121.206.197/live/daniel/index.m3u8
 
+#EXTINF:-1, SCRM1
+https://dl.dropboxusercontent.com/s/l5ib7m63g1w1ypo/Scrm96-18pl4T.mp4?dl=0
+
+#EXTINF:-1,SCRM2
+https://dl.dropboxusercontent.com/s/qcfxj73odjtrxcf/Scream%202%201997.MP4?dl=0
+
+#EXTINF:-1,SHERK
+https://dl.dropboxusercontent.com/s/lyxljnsfkg6cjr7/SalynPM-S.3.mp4?dl=0
+
+#EXTINF:-1,TRMNT3
+https://dl.dropboxusercontent.com/s/99zuuhknomxz90t/SalynPM-SPM7w9q.mp4?dl=0
+
+#EXTINF:-1,SHLL H1
+https://dl.dropboxusercontent.com/s/r690u764lj5sn4f/SalynPM-S.H.mp4?dl=0
+
+#EXTINF:-1,SHLL H2
+https://dl.dropboxusercontent.com/s/q61mdvd1ebdi0zh/SalynPM-S.H.2.mp4?dl=0
+
+#EXTINF:-1,TOY1
+https://dl.dropboxusercontent.com/s/sqlabqu4wmlj8rh/SalynPM-T.S.1.mp4?dl=0
+
+#EXTINF:-1,TOY2
+https://dl.dropboxusercontent.com/s/r9f1djbxpjjb1sv/SalynPM-T.S.2.mp4?dl=0
+
+#EXTINF:-1,TOY3
+https://dl.dropboxusercontent.com/s/9pxbjvzsql60s2n/SalynPM-T.S.3.mp4?dl=0
+
+#EXTINF:-1,LLORN
+https://dl.dropboxusercontent.com/s/yhsud4tdhsj11qo/SalynPM-SPM9y4m.mp4?dl=0
+
+#EXTINF:-1,CMNT
+https://dl.dropboxusercontent.com/s/6qfnwa3st12y0wm/SalynPM-SPM6j7n.mp4?dl=0
+
+#EXTINF:-1,N MNCHS FRD 1
+https://dl.dropboxusercontent.com/s/l5s0hsnvok6gwwf/SalynPM-N.M.F.mp4?dl=0
+
+#EXTINF:-1,N MNCHS FRD 2
+https://dl.dropboxusercontent.com/s/czsf3sc58ifdhnh/SalynPM-N.M.F.2.mp4?dl=0
+
+#EXTINF:-1,CAPT MRVL
+https://dl.dropboxusercontent.com/s/c8kf20banu7lgst/SalynPM-C.M.mp4?dl=0
+
+#EXTINF:-1,GOT
+https://dl.dropboxusercontent.com/s/g8ddpbc3o6gom2l/SalynPM-SPM4x7g.mp4?dl=0
+
+#EXTINF:-1,HMBRS NGR
+https://dl.dropboxusercontent.com/s/u36p10ueomrfvi8/SalynPM-SPM5f2y.mp4?dl=0
+
+#EXTINF:-1,XMN
+https://dl.dropboxusercontent.com/s/0d6bi6mqvphbnq9/SalynPM-SPM7h4p.mp4?dl=0
+
+#EXTINF:-1,VERDAD
+https://servidor-4.tk/Suspenso/Verdad-o-reto-2018-lat.mp4
+
+#EXTINF:-1,TRR ZOMB
+https://dl.dropboxusercontent.com/s/hx0avpivgfcguqk/SalynPM-Zombieland.mp4?dl=0
+
+#EXTINF:-1, STRWR 2
+https://dl.dropboxusercontent.com/s/cj0ogf7jv5rtra9/SalynPM-SPM3z1t.mp4
+
+#EXTINF:-1, STRWR 3
+https://dl.dropboxusercontent.com/s/fmd371imnz8afep/SalynPM-SPM1p1k.mp4?dl=0
+
+#EXTINF:-1,RGN
+https://dl.dropboxusercontent.com/s/kyw3jvivl25nc4o/SalynPM-SPM2i6v.mp4?dl=0
+
+#EXTINF:-1,RPD 1
+https://dl.dropboxusercontent.com/s/wipykhmxbmp1ux0/SalynPM-SPM3e7p.mp4?dl=0
+
+#EXTINF:-1,RP 2
+https://dl.dropboxusercontent.com/s/dlxsubwqck2hbal/SalynPM-SPM7bz.mp4?dl=0
+
+#EXTINF:-1,RSD 1
+https://dl.dropboxusercontent.com/s/u6cvi51sg11y7ue/SalynPM-R.E.1.mp4?dl=0
+
+#EXTINF:-1,RSD 2
+https://dl.dropboxusercontent.com/s/g3m9g096g69gdq8/SalynPM-R.E.A.mp4?dl=0
+
+#EXTINF:-1,RSD 3
+https://dl.dropboxusercontent.com/s/no381sp6cshn9as/SalynPM-R.E.E.mp4?dl=0
+
+#EXTINF:-1,RSD 4
+https://dl.dropboxusercontent.com/s/c5utky0vbxf4d1t/SalynPM-R.E.L.R.mp4?dl=0
+
+#EXTINF:-1,RSD 5
+https://dl.dropboxusercontent.com/s/shc98tvnyc244ki/SalynPM-R.E.L.V.mp4?dl=0
 
 
-#EXTINF:-1, BBg
-http://streamingtv.vip:8080/ManuelRenteriaPB22/Manuel10012022/139922
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 1 FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/267808.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 2 FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/267809.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 3 FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/267810.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 4 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 4 FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/267811.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 5 FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/267812.ts
-#EXTINF:-1,24/7 Rick y Morty (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37850
-#EXTINF:-1,24/7 Zoids (s)(SD)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/63382
-#EXTINF:-1,24/7 Universo Marvel (e)(1080)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37907
-#EXTINF:-1,24/7 Vecinos (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37785
-#EXTINF:-1,24/7 Victorious (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37778
+#EXTINF:-1,RSD 6
+https://dl.dropboxusercontent.com/s/i4fgi765qhu6yoq/SalynPM-R.E.C.F.mp4?dl=0
 
-#EXTINF:-1,24/7 Un Show Mas (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37881
-#EXTINF:-1,24/7 The Big Bang Theory (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/53237
-#EXTINF:-1,24/7 South Park (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37754
-#EXTINF:-1,EVENTOS - PPV 1 (e)(1080)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/180859
-#EXTINF:-1,EVENTOS - PPV 2 (e)(1080)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/180858
-#EXTINF:-1,EVENTOS - PPV 3 (e)(1080)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/180857
-#EXTINF:-1,EVENTOS - PPV 4 (e)(1080)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/180631
-#EXTINF:-1,24/7 Estrenos 2023 (PM)(1080)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/225477
-#EXTINF:-1,24/7 Alf (e)(SD)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37766
-#EXTINF:-1,24/7 American Dad (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37860
-#EXTINF:-1,24/7 Digimon (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37814
-#EXTINF:-1,24/7 Disney Animacion 3D (e)(1080)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37910
-#EXTINF:-1,24/7 Disney Clasicos Animados (e)(1080)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37908
-#EXTINF:-1,24/7 Dos Hombres y Medio (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37791
-#EXTINF:-1,24/7 Drake y Josh  (e)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37768
-#EXTINF:-1,24/7 Estrenos 2019 (e)(1080)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/55349
-#EXTINF:-1,24/7 Estrenos 2020 (e)(1080)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/55628
-#EXTINF:-1,24/7 Estrenos Accion (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/144548
-#EXTINF:-1,24/7 Estrenos Animacion (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/144549
-#EXTINF:-1,24/7 Estrenos Aventura (720)(e)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/144550
-#EXTINF:-1,24/7 Estrenos CienciaFiccion (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/144551
-#EXTINF:-1,24/7 Estrenos Comedia (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/144552
-#EXTINF:-1,24/7 Estrenos Disney (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/144553
-#EXTINF:-1,24/7 Estrenos Familiar (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/144554
-#EXTINF:-1,24/7 Fantasia (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37921
-#EXTINF:-1,24/7 Hunter x Hunter 2011 (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/38420
-#EXTINF:-1,24/7 iCarly  (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37769
-#EXTINF:-1,24/7 Infantil (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37919
-#EXTINF:-1,24/7 La casa de los dibujos (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37825
-#EXTINF:-1,24/7 La Familia P. Luche (e)(SD)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37757
-#EXTINF:-1,24/7 Malcolm in the Middle (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37750
-#EXTINF:-1,24/7 Padre De Familia (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37764
-#EXTINF:-1,24/7 Sagas (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37915
-#EXTINF:-1,24/7 Sam y Cat (e)(720)
-http://tv.proyectox.vip:43201/canadaplus2019/V3nVPu4TtT/37770
-#EXTINF:0,Comedy Central 
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/500.ts
-#EXTINF:0,Comedy Central (_HD_)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/506.ts
-#EXTINF:0,Distrito Comedia (_1_)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/568.ts
-#EXTINF:0,Distrito Comedia (_2_)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/571.ts
-#EXTINF:0,Distrito Comedia (_HD_)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/572.ts
-#EXTINF:0,FX 
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/601.ts
-#EXTINF:0,FX (_2_)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/602.ts
-#EXTINF:0,FX (_HD_)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/604.ts
-#EXTINF:0,Nick 2 (TeenNick HD)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/728.ts
-#EXTINF:0,Nick 2 (TeenNick SD)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/725.ts
-#EXTINF:0,TNT 
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/797.ts
-#EXTINF:0,TNT (_HD_)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/803.ts
-#EXTINF:0,TNT SERIES 
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/804.ts
-#EXTINF:0,TNT SERIES (_HD_)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/808.ts
-#EXTINF:0,Fox Sports 2 |MX|
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/906.ts
-#EXTINF:0,Fox Sports 2 |SUR|
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/899.ts
-#EXTINF:0,Fox Sports 3 |MX|
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/909.ts
-#EXTINF:0,Fox Sports 3 |SUR|
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/902.ts
-#EXTINF:0,Fox Sports Premium |AR|
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/892.ts
-#EXTINF:0,Fox Sports Premium |MX|
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/895.ts
-#EXTINF:0,Warner
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/854.ts
-#EXTINF:0,Warner (_HD_)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/859.ts
+#EXTINF:-1,RSD 7
+https://dl.dropboxusercontent.com/s/zp292o868nh1txl/SalynPM-R.E.Deg.mp4?dl=0
 
-#EXTINF:0,Sony
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/750.ts
-#EXTINF:0,Sony (_HD_)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/754.ts
-#EXTINF:0,Space
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/756.ts
-#EXTINF:0,Space (_HD_)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/759.ts
-#EXTINF:0,Star Channel (_1_)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/588.ts
-#EXTINF:0,Star Channel (_2_)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/591.ts
-#EXTINF:0,Star Channel (_HD_)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/595.ts
+#EXTINF:-1,RSD 8
+https://dl.dropboxusercontent.com/s/2cj5wuvpe0ttukk/SalynPM-R.E.D.mp4?dl=0
 
-
-
-
-
-
-
-
-#EXTINF:0,247 Bob Esponja
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/944.ts
-#EXTINF:0,247 Breaking Bad
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/946.ts
-#EXTINF:0,247 Caballeros del Zodiaco
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/947.ts
-#EXTINF:0,247 South Park
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1089.ts
-#EXTINF:0,247 Padre de Familia
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1064.ts
-#EXTINF:0,247 LOS SIMPSONS 1-5
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1041.ts
-#EXTINF:0,247 LOS SIMPSONS 12-17
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1048.ts
-#EXTINF:0,247 LOS SIMPSONS 18-21
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1049.ts
-#EXTINF:0,247 LOS SIMPSONS 22-26
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1052.ts
-#EXTINF:0,247 LOS SIMPSONS 27-30
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1054.ts
-#EXTINF:0,247 LOS SIMPSONS 6-11
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1044.ts
-#EXTINF:0,247 Malcolm in the middle 2000
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1057.ts
-#EXTINF:0,247 LOS SIMPSONS
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1039.ts
-#EXTINF:0,247 Futurama 1999
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1009.ts
-#EXTINF:0,247 Game Of Throne
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1010.ts
-#EXTINF:0,247 Doraemon
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/992.ts
-#EXTINF:0,247 Chapulin Colorado
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/958.ts
-#EXTINF:0,247 Chavo Del Ocho 1
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/959.ts
-#EXTINF:0,247 Chavo Del Ocho 2
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1130.ts
-#EXTINF:0,247 Chespirito 1
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/955.ts
-#EXTINF:0,247 Chespirito 2 (Nuevo)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1128.ts
-#EXTINF:0,247 Chespirito 3 (Nuevo)
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1129.ts
+#EXTINF:-1,RSD 9
+https://dl.dropboxusercontent.com/s/sx2qtas8k52hqr6/SalynPM-R.E.V.mp4?dl=0
 
 
 
@@ -275,76 +119,6 @@ https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/1129.ts
 
 
 
-
-#EXTINF:-1,24/7 VIP Cinema Accion Classics FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50572
-#EXTINF:-1,24/7 VIP Cinema Horror Classics HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50574
-#EXTINF:-1,24/7 VIP Cinema Comedia FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50575
-#EXTINF:-1,24/7 VIP Cinema DC Comics FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50576
-#EXTINF:-1,24/7 VIP Cinema DC Universe HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50577
-#EXTINF:-1,24/7 VIP Cinema Disney Family FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50578
-#EXTINF:-1,24/7 VIP Cinema Disney Pixar FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50579
-#EXTINF:-1,24/7 VIP Cinema Dreamworks FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50580
-#EXTINF:-1,24/7 VIP Cinema Familia FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50581
-#EXTINF:-1,24/7 VIP Cinema Happy Madison FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50582
-#EXTINF:-1,24/7 VIP Cinema Horror FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50583
-#EXTINF:-1,24/7 VIP Cinema Lego Movies FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50584
-#EXTINF:-1,24/7 VIP Cinema Marvel Animated FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50585
-#EXTINF:-1,24/7 VIP Cinema Marvel Studios FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50586
-#EXTINF:-1,24/7 VIP Futurama HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50599
-#EXTINF:-1,24/7 VIP Los Simpsons FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50616
-#EXTINF:-1,24/7 VIP Los Simpsons Horror HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50617
-#EXTINF:-1,24/7 VIP Los Simpsons Retro SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50618
-#EXTINF:-1,24/7 VIP Rick y Morty FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50631
-#EXTINF:-1,24/7 Vecinos Temp 2 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49208
-#EXTINF:-1,24/7 Vecinos Temp 3 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49209
-#EXTINF:-1,24/7 Vecinos Temp 4 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49210
-#EXTINF:-1,24/7 VIP Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58105
-#EXTINF:-1,24/7 VIP Dragon Ball Super 2 Saga Universo 6 y Goku Black HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58106
-#EXTINF:-1,24/7 VIP Dragon Ball Super 3 Saga de la Supervivencia Universal HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58107
-#EXTINF:-1,24/7 VIP El Chavo HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58120
-#EXTINF:-1,24/7 VIP Chespirito TV
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58121
-#EXTINF:-1,24/7 Guerra De Bestias Transformers SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58188
-#EXTINF:-1,24/7 El Principe De Rap SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58284
-#EXTINF:-1,24/7 El Principe Del Rap 2 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58285
-#EXTINF:-1,24/7 El Principe Del Rap 2 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58285
-#EXTINF:-1,24/7 Friends HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58291
-#EXTINF:-1,24/7 MALCOLM SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58317
-#EXTINF:-1,24/7 Los Caballeros del Zodiaco SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58301
-      
 
 
 #EXTINF:-1,24/7 - LOS SIMPSON HD
