@@ -4,6 +4,10 @@
 #EXTM:
  
 #EXTM3U
+#EXTINF:-1,simp
+https://www.twitch.tv/tomasogl
+
+
 #EXTINF:-1,WOW
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
