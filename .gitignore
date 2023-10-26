@@ -4,7 +4,11 @@
 #EXTM:
  
 #EXTM3U
+#EXTINF:-1,WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
+#EXTINF:-1,AtB
+http://186.121.206.197/live/daniel/index.m3u8
 
 
 
