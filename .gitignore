@@ -4,6 +4,27 @@
 #EXTM:
  
 #EXTM3U
+
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││KIDS HD││CARTOON NETWORK (N)" tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││CARTOON NETWORK (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/169
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ DISCOVERY KIDS HD (N)" tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="││TV││ INFANTILES",││KIDS││ DISCOVERY KIDS HD (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/170
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ DISNEY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DisneyChannel.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││ DISNEY CHANNEL (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/171
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD│N│DISNEY JUNIOR" tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="││TV││ INFANTILES",││KIDS HD│N│DISNEY JUNIOR
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/172
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ TOONCAST SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1024px-Tooncast_logo.svg.png" group-title="││TV││ INFANTILES",││KIDS HD││ TOONCAST SD
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/173
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ CINE ANIMADO" tvg-logo="https://freepngimg.com/save/161179-vector-kids-png-file-hd/700x565" group-title="││TV││ INFANTILES",││KIDS HD││ CINE ANIMADO
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/174
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ NICK (N)" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││ NICK (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/175
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK 2 TEAM NICK HD" tvg-logo="https://static.epg.best/mx/Nick2.mx.png" group-title="││TV││ INFANTILES",││KIDS││ NICK 2 TEAM NICK HD
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/176
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK JR HD  (N)" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="││TV││ INFANTILES",││KIDS││ NICK JR HD  (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/177
+
+
 INFANTILES",PAKA PAKA HD
 http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/83091
 #EXTINF:-1 tvg-id="I201.55980.schedulesdirect.org" tvg-name="DISTRITO COMEDIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="││TV││COMEDIA ",DISTRITO COMEDIA SD
