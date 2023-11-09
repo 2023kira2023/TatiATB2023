@@ -5,6 +5,10 @@
  
 #EXTM3U
 
+#EXTINF:-1, gups 2
+https://ok.ru/video/3009552779806
+
+
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││KIDS HD││CARTOON NETWORK (N)" tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││CARTOON NETWORK (N)
 http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/169
 #EXTINF:-1 tvg-id="" tvg-name="││KIDS││ DISCOVERY KIDS HD (N)" tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="││TV││ INFANTILES",││KIDS││ DISCOVERY KIDS HD (N)
