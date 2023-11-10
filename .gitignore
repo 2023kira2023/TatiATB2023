@@ -5,8 +5,187 @@
  
 #EXTM3U
 
-#EXTINF:-1, gups 2
-https://ok.ru/video/3009552779806
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Rápidos y furiosos X (2023) HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3P9QvWVN02Etn4kYGC702WVoXEb.jpg" group-title="ESTRENOS 2023",Rápidos y furiosos X (2023) HD
+http://proiptvdigic.com:8080/movie/Cambiotodoplus/HY8q7Nyp3ZXn/209918.mp4
+
+
+
+#EXTINF:-1 tvg-id="I164.74906.schedulesdirect.org" tvg-name="COMEDY_CENTRAL_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="",COMEDY_CENTRAL_HD_MX
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/181517
+#EXTINF:-1 tvg-id="I200.55980.schedulesdirect.org" tvg-name="DISTRITO_COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="",DISTRITO_COMEDIA
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/181518
+#EXTINF:-1 tvg-id="I430.62161.zap2it.com" tvg-name="HOLA_TV_HD" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/hola-tv-350x183.png?itok=Y_HTr88r" group-title="",HOLA_TV_HD
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/181519
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="FX_HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_fx-hd_m.png" group-title="",FX_HD
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/181520
+#EXTINF:-1 tvg-id="I236.61812.zap2it.com" tvg-name="E_HD_MX" tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/E-logo.png?resize=99%2C320" group-title="",E_HD_MX
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/181521
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="││TV││ CINE",││CINE HD││SONY CINE
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/101
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ A&E (N)" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="││TV││ CINE",││CINE FHD││ A&E (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/102
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││CINE FHD││ AMC (N)" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="││TV││ CINE",││CINE FHD││ AMC (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/103
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ AXN (N)" tvg-logo="https://static.epg.best/mx/AXN.mx.png" group-title="││TV││ CINE",││CINE HD││ AXN (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/104
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││CINECANAL (N)" tvg-logo="https://static.epg.best/mx/Cinecanal.mx.png" group-title="││TV││ CINE",││CINE HD││CINECANAL (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/105
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ STAR CHANNEL (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="││TV││ CINE",││CINE HD││ STAR CHANNEL (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/108
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││COMEDIA HD││  UNIVERSAL COMEDY (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Universal_Comedy_logo.png/640px-Universal_Comedy_logo.png" group-title="││TV││COMEDIA ",││COMEDIA HD││  UNIVERSAL COMEDY (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/109
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ CINEMAX (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="││TV││ CINE",││CINE HD││ CINEMAX (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/110
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ DISNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="││TV││ CINE",││CINE HD││ DISNEY
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/112
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││PARAMOUT (N)" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="││TV││ CINE",││CINE HD││PARAMOUT (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/123
+#EXTINF:-1 tvg-id="I386.69091.schedulesdirect.org" tvg-name="││CINE HD││ SONY (N)" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="││TV││ CINE",││CINE HD││ SONY (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/124
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││SPACE (N)" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="││TV││ CINE",││CINE HD││SPACE (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/127
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││TNT (N)" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="││TV││ CINE",││CINE HD││TNT (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/128
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ TNT SERIES (N)" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="││TV││ CINE",││CINE HD││ TNT SERIES (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/129
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││WARNER CHANNEL (N)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="││TV││ CINE",││CINE HD││WARNER CHANNEL (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/130
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  ANIMAL PLANET" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="││TV││CULTURA",││CULT HD││  ANIMAL PLANET
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/151
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY CHANNEL (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/152
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY HOME&HEALTH (N)" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY HOME&HEALTH (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/153
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY SCIENCE" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-latinoamerica-us.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY SCIENCE
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/155
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY THEATHER (N)" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY THEATHER (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/156
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY TURBO*" tvg-logo="https://static.epg.best/pa/DiscoveryTurboLatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY TURBO*
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/157
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││CULT HD││ DISCOVERY WORLD (N)" tvg-logo="https://static.epg.best/mx/DiscoveryWorld.mx.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY WORLD (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/158
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ HISTORY (N)" tvg-logo="https://static.epg.best/pa/HistoryLatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ HISTORY (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/159
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ NATGEO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="││TV││CULTURA",││CULT HD││ NATGEO
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/160
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ NATGEO WILD" tvg-logo="https://static.epg.best/mx/NatGeoWild.mx.png" group-title="││TV││CULTURA",││CULT HD││ NATGEO WILD
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/161
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY ID (N)" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY ID (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/162
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY TURBO" tvg-logo="https://static.epg.best/au/DiscoveryTurbo.au.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY TURBO
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/163
+#EXTINF:-1 tvg-id="I375.80374.schedulesdirect.org" tvg-name="││CULT HD││ H2 " tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ H2 
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/164
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ HISTORIA CHANNEL (N)" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="││TV││CULTURA",││CULT HD││ HISTORIA CHANNEL (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/165
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  NATIONAL GEOGRAPHIC" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="││TV││CULTURA", ││CULT FHD││  NATIONAL GEOGRAPHIC
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/166
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││INFANTIL BABY TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="││TV││ INFANTILES",││KIDS HD││INFANTIL BABY TV HD
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/167
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ CARTOONITO" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="││TV││ INFANTILES",││KIDS HD││ CARTOONITO
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/168
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││KIDS HD││CARTOON NETWORK (N)" tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││CARTOON NETWORK (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/169
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ DISCOVERY KIDS HD (N)" tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="││TV││ INFANTILES",││KIDS││ DISCOVERY KIDS HD (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/170
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ DISNEY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DisneyChannel.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││ DISNEY CHANNEL (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/171
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD│N│DISNEY JUNIOR" tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="││TV││ INFANTILES",││KIDS HD│N│DISNEY JUNIOR
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/172
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ TOONCAST SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1024px-Tooncast_logo.svg.png" group-title="││TV││ INFANTILES",││KIDS HD││ TOONCAST SD
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/173
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ CINE ANIMADO" tvg-logo="https://freepngimg.com/save/161179-vector-kids-png-file-hd/700x565" group-title="││TV││ INFANTILES",││KIDS HD││ CINE ANIMADO
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/174
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ NICK (N)" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││ NICK (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/175
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK 2 TEAM NICK HD" tvg-logo="https://static.epg.best/mx/Nick2.mx.png" group-title="││TV││ INFANTILES",││KIDS││ NICK 2 TEAM NICK HD
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/176
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK JR HD  (N)" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="││TV││ INFANTILES",││KIDS││ NICK JR HD  (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/177
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 1" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 1
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/320
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 2" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 2
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/321
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 3" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 3
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/322
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 4" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 4
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/323
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 5" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 5
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/324
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 6" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 6
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/325
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV HARRY POTTER" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV HARRY POTTER
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/326
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 8" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 8
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/327
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV MARVEL STUDIO HD" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV MARVEL STUDIO HD
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/328
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 10" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 10
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | FX (n)" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="││TV││ PREMIUM FHD",CINE FULL HD | FX (n)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/337
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | STAR CHANNEL (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | STAR CHANNEL (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/338
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ UNIVERSAL PREMIER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?cb=20220102013559&path-prefix=es" group-title="││TV││ PREMIUM FHD",││CINE FHD││ UNIVERSAL PREMIER
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/339
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | UNIVERSAL CINEMA (N)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Universal_Cinema_2021.png/revision/latest?cb=20220102014101&path-prefix=es" group-title="││TV││ PREMIUM FHD",CINE FULL HD | UNIVERSAL CINEMA (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/340
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││UNIVERSAL COMEDY (N)" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1006522521_UniversalComedy.png.b9917abf77a0af6426dc74bf7e8c0083.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││UNIVERSAL COMEDY (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/341
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││FILM  & ARTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Film%26Arts1998.png/revision/latest?cb=20200106220948&path-prefix=es" group-title="││TV││ PREMIUM FHD",││CINE FHD││FILM  & ARTS
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/343
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | UNIVERSAL PREMIER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?cb=20220102013559&path-prefix=es" group-title="││TV││ PREMIUM FHD",CINE FULL HD | UNIVERSAL PREMIER
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/344
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ HBO (N)" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ HBO (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/345
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ SPACE (N)" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ SPACE (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/353
+#EXTINF:-1 tvg-id="" tvg-name="  ││MX││ FOX SPORTS MEXICO [SD]" tvg-logo="https://static.epg.best/mx/FoxSports.mx.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",  ││MX││ FOX SPORTS MEXICO [SD]
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/284
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ FOX SPORT 1 CHILE [FHD]" tvg-logo="https://static.epg.best/mx/FoxSports.mx.png" group-title="││TV││⛹️ DEPORTE CHILE ⛹️",││CHL││ FOX SPORT 1 CHILE [FHD]
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/373
+#EXTINF:-1 tvg-id="" tvg-name="││COL│N│FOX SPORTS 1 FHD LATINO" tvg-logo="https://static.epg.best/mx/FoxSports.mx.png" group-title="││TV││⛹️ DEPORTE COLOMBIA ⛹️",││COL│N│FOX SPORTS 1 FHD LATINO
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/374
+#EXTINF:-1 tvg-id="" tvg-name="  ││MX││FOX SPORTS 1 MX [FHD]" tvg-logo="https://static.epg.best/mx/FoxSports.mx.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",  ││MX││FOX SPORTS 1 MX [FHD]
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/375
+#EXTINF:-1 tvg-id="" tvg-name="  ││MX││FOX SPORTS [FHD]" tvg-logo="https://static.epg.best/mx/FoxSports.mx.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",  ││MX││FOX SPORTS [FHD]
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/376
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││  FOX SPORT 2 CHILE [FHD]" tvg-logo="https://static.epg.best/mx/FoxSports2.mx.png" group-title="││TV││⛹️ DEPORTE CHILE ⛹️",││CHL││  FOX SPORT 2 CHILE [FHD]
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/377
+#EXTINF:-1 tvg-id="" tvg-name="││COL││FOX SPORTS 2 FHD LATINO" tvg-logo="https://static.epg.best/mx/FoxSports2.mx.png" group-title="││TV││⛹️ DEPORTE COLOMBIA ⛹️",││COL││FOX SPORTS 2 FHD LATINO
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/378
+#EXTINF:-1 tvg-id="" tvg-name="││COL││FOX SPORTS 2 FULL HD LATINO (N)" tvg-logo="https://static.epg.best/mx/FoxSports2.mx.png" group-title="││TV││⛹️ DEPORTE COLOMBIA ⛹️",││COL││FOX SPORTS 2 FULL HD LATINO (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/381
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││FOX SPORTS 2  [FHD]" tvg-logo="https://static.epg.best/mx/FoxSports2.mx.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️", ││MX││FOX SPORTS 2  [FHD]
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/379
+#EXTINF:-1 tvg-id="" tvg-name="  ││MX││ FOX SPORTS 3 [FHD]" tvg-logo="https://static.epg.best/mx/FoxSports3.mx.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",  ││MX││ FOX SPORTS 3 [FHD]
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/383
+#EXTINF:-1 tvg-id="" tvg-name="││COL││FOX SPORTS 3 FHD LATINO (N)" tvg-logo="https://static.epg.best/mx/FoxSports3.mx.png" group-title="││TV││⛹️ DEPORTE COLOMBIA ⛹️",││COL││FOX SPORTS 3 FHD LATINO (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/384
+#EXTINF:-1 tvg-id="" tvg-name="││COL││FOX SPORTS 3 HD LATINO" tvg-logo="https://static.epg.best/mx/FoxSports3.mx.png" group-title="││TV││⛹️ DEPORTE COLOMBIA ⛹️",││COL││FOX SPORTS 3 HD LATINO
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/382
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  TNT SPORTS ARGENTINA [FHD]" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││  TNT SPORTS ARGENTINA [FHD]
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/386
+
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TYC SPORTS OPC1 [HD] (N)" tvg-logo="https://insiderlatam.com/wp-content/uploads/2020/09/tyc-sports.jpg" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││ TYC SPORTS OPC1 [HD] (N)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/26868
+#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT││ (OPC) [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ DEPORTE PARAGUAY ⛹️",││TIGO SPORT││ (OPC) [HD]
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/27796
+#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT +││ (OPC)  [HD] " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT +││ (OPC)  [HD] 
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/27797
+#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT 2││ =BOL= (OPC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT 2││ =BOL= (OPC)
+http://proiptvdigic.com:8080/Cambiotodoplus/HY8q7Nyp3ZXn/27798
+
+
 
 
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││KIDS HD││CARTOON NETWORK (N)" tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││CARTOON NETWORK (N)
