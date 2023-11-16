@@ -5,6 +5,15 @@
  
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││  ETC TV [HD]" tvg-logo="https://static.epg.best/cl/ETCTV.cl.png" group-title="││TV││ CHILE",││CHL││  ETC TV [HD]
+http://proiptvdigic.com:8080/pandconv3/HTVFuZ5PePNG/232
+#EXTINF:-1 tvg-id="" tvg-name=" ││ARG││  TNT SPORTS ARGENTINA [HD]" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️", ││ARG││  TNT SPORTS ARGENTINA [HD]
+http://proiptvdigic.com:8080/pandconv3/HTVFuZ5PePNG/147
+#EXTINF:-1 tvg-id="" tvg-name=" ││ARG││  TYC SPORTS ARGENTINA  [HD] (N)" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️", ││ARG││  TYC SPORTS ARGENTINA  [HD] (N)
+http://proiptvdigic.com:8080/pandconv3/HTVFuZ5PePNG/148
+#EXTINF:-1 tvg-id="" tvg-name="  ││CHL││TNT SPORTS CHILE  [HD]" tvg-logo="https://tntsports.com.ar/__export/1610632432438/sites/tntsports/arte/apps/twitter_summary_card_20210114.jpg" group-title="││TV││⛹️ DEPORTE CHILE ⛹️",  ││CHL││TNT SPORTS 
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TV PUBLICA [HQ]" tvg-logo="https://static.epg.best/ar/TVPublica.ar.png" group-title="││TV││ARGENTINA ",││ARG││ TV PUBLICA [HQ]
+http://proiptvdigic.com:8080/pandconv3/HTVFuZ5PePNG/268
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | MARVEL" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | MARVEL
 http://proiptvdigic.com:8080/pandconv3/HTVFuZ5PePNG/436
