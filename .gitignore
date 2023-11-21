@@ -5,6 +5,380 @@
  
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | ROMANCES" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | ROMANCES
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/431
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | FAMILIAR" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | FAMILIAR
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/432
+
+
+#EXTINF:-1 tvg-id="I233.55980.schedulesdirect.org" tvg-name="││HD││ DISTRITO COMEDIA MX " tvg-logo="https://static.epg.best/mx/DistritoComedia.mx.png" group-title="││TV││COMEDIA ",││HD││ DISTRITO COMEDIA MX 
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/19
+
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE SD││WARNER" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="││TV││ CINE",││CINE SD││WARNER
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/68
+
+#EXTINF:-1 tvg-id="" tvg-name=" ││ARG││  TYC SPORTS ARGENTINA  [HD] (N)" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️", ││ARG││  TYC SPORTS ARGENTINA  [HD] (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/148
+
+#EXTINF:-1 tvg-id="" tvg-name="││PERU││ MOVISTAR DEPORTE |Exclusivo|" tvg-logo="https://static.epg.best/pe/MovistarDeportes.pe.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",││PERU││ MOVISTAR DEPORTE |Exclusivo|
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/256
+
+#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT 3││ (BOL) [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT 3││ (BOL) [SD]
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/554
+
+#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT 1││ (BOL) [SD] " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT 1││ (BOL) [SD] 
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/552
+
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TYC SPORTS OPC1 [HD] (N)" tvg-logo="https://insiderlatam.com/wp-content/uploads/2020/09/tyc-sports.jpg" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││ TYC SPORTS OPC1 [HD] (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/26868
+#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT││ (OPC) [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ DEPORTE PARAGUAY ⛹️",││TIGO SPORT││ (OPC) [HD]
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/27796
+#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT +││ (OPC)  [HD] " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT +││ (OPC)  [HD] 
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/27797
+#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT 2││ =BOL= (OPC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT 2││ =BOL= (OPC)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/27798
+
+#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT││ (OPC) [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ DEPORTE PARAGUAY ⛹️",││TIGO SPORT││ (OPC) [HD]
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/27796
+#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT +││ (OPC)  [HD] " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT +││ (OPC)  [HD] 
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/27797
+#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT 2││ =BOL= (OPC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT 2││ =BOL= (OPC)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/27798
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  TYC SPORTS HD (OPC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││  TYC SPORTS HD (OPC)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/27864
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││TUDN XTRA HD (OPC)" tvg-logo="https://st1.uvnimg.com/79/61/506658634ddc88e13a6bd123364d/tudnxtra-logo.jpg" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️", ││MX││TUDN XTRA HD (OPC)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/27865
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││TUDN SD (OPC)" tvg-logo="https://lh3.googleusercontent.com/rJ3OYfwAW5d-_UqfZgB4kgQyP3TskVE3pr4Kjp8X5Z4pssBHAgwArME_BC7n5GzvSq8" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️", ││MX││TUDN SD (OPC)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/27866
+#EXTINF:-1 tvg-id="" tvg-name="CDO SD (OPC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest?cb=20211122020635&path-prefix=es" group-title="││TV││⛹️ DEPORTE CHILE ⛹️",CDO SD (OPC)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/27867
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="││PERU││ GOL PERU FHD (N)" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",││PERU││ GOL PERU FHD (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/20400
+#EXTINF:-1 tvg-id="" tvg-name="││PERU││GOL PERU HD OP2 |Exclusivo|" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",││PERU││GOL PERU HD OP2 |Exclusivo|
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/20401
+#EXTINF:-1 tvg-id="" tvg-name="││PERU││ GOL PERU HD OP3 |Exclusivo|" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",││PERU││ GOL PERU HD OP3 |Exclusivo|
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/20402
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="││TV││ CINE",││CINE HD││SONY CINE
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/101
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ A&E (N)" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="││TV││ CINE",││CINE FHD││ A&E (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/102
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││CINE FHD││ AMC (N)" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="││TV││ CINE",││CINE FHD││ AMC (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/103
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ AXN (N)" tvg-logo="https://static.epg.best/mx/AXN.mx.png" group-title="││TV││ CINE",││CINE HD││ AXN (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/104
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││CINECANAL (N)" tvg-logo="https://static.epg.best/mx/Cinecanal.mx.png" group-title="││TV││ CINE",││CINE HD││CINECANAL (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/105
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ STAR CHANNEL (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="││TV││ CINE",││CINE HD││ STAR CHANNEL (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/108
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││COMEDIA HD││  UNIVERSAL COMEDY (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Universal_Comedy_logo.png/640px-Universal_Comedy_logo.png" group-title="││TV││COMEDIA ",││COMEDIA HD││  UNIVERSAL COMEDY (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/109
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ CINEMAX (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="││TV││ CINE",││CINE HD││ CINEMAX (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/110
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ DISNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="││TV││ CINE",││CINE HD││ DISNEY
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/112
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││PARAMOUT (N)" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="││TV││ CINE",││CINE HD││PARAMOUT (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/123
+#EXTINF:-1 tvg-id="I386.69091.schedulesdirect.org" tvg-name="││CINE HD││ SONY (N)" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="││TV││ CINE",││CINE HD││ SONY (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/124
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││SPACE (N)" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="││TV││ CINE",││CINE HD││SPACE (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/127
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││TNT (N)" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="││TV││ CINE",││CINE HD││TNT (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/128
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ TNT SERIES (N)" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="││TV││ CINE",││CINE HD││ TNT SERIES (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/129
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││WARNER CHANNEL (N)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="││TV││ CINE",││CINE HD││WARNER CHANNEL (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/130
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  ANIMAL PLANET" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="││TV││CULTURA",││CULT HD││  ANIMAL PLANET
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/151
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY CHANNEL (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/152
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY HOME&HEALTH (N)" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY HOME&HEALTH (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/153
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY SCIENCE" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-latinoamerica-us.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY SCIENCE
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/155
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY THEATHER (N)" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY THEATHER (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/156
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY TURBO*" tvg-logo="https://static.epg.best/pa/DiscoveryTurboLatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY TURBO*
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/157
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││CULT HD││ DISCOVERY WORLD (N)" tvg-logo="https://static.epg.best/mx/DiscoveryWorld.mx.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY WORLD (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/158
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ HISTORY (N)" tvg-logo="https://static.epg.best/pa/HistoryLatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ HISTORY (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/159
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ NATGEO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="││TV││CULTURA",││CULT HD││ NATGEO
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/160
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ NATGEO WILD" tvg-logo="https://static.epg.best/mx/NatGeoWild.mx.png" group-title="││TV││CULTURA",││CULT HD││ NATGEO WILD
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/161
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY ID (N)" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY ID (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/162
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY TURBO" tvg-logo="https://static.epg.best/au/DiscoveryTurbo.au.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY TURBO
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/163
+#EXTINF:-1 tvg-id="I375.80374.schedulesdirect.org" tvg-name="││CULT HD││ H2 " tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ H2 
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/164
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ HISTORIA CHANNEL (N)" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="││TV││CULTURA",││CULT HD││ HISTORIA CHANNEL (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/165
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  NATIONAL GEOGRAPHIC" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="││TV││CULTURA", ││CULT FHD││  NATIONAL GEOGRAPHIC
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/166
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││INFANTIL BABY TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="││TV││ INFANTILES",││KIDS HD││INFANTIL BABY TV HD
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/167
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ CARTOONITO" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="││TV││ INFANTILES",││KIDS HD││ CARTOONITO
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/168
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││KIDS HD││CARTOON NETWORK (N)" tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││CARTOON NETWORK (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/169
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ DISCOVERY KIDS HD (N)" tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="││TV││ INFANTILES",││KIDS││ DISCOVERY KIDS HD (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/170
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ DISNEY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DisneyChannel.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││ DISNEY CHANNEL (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/171
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD│N│DISNEY JUNIOR" tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="││TV││ INFANTILES",││KIDS HD│N│DISNEY JUNIOR
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/172
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ TOONCAST SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1024px-Tooncast_logo.svg.png" group-title="││TV││ INFANTILES",││KIDS HD││ TOONCAST SD
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/173
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ CINE ANIMADO" tvg-logo="https://freepngimg.com/save/161179-vector-kids-png-file-hd/700x565" group-title="││TV││ INFANTILES",││KIDS HD││ CINE ANIMADO
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/174
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ NICK (N)" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││ NICK (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/175
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK JR HD  (N)" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="││TV││ INFANTILES",││KIDS││ NICK JR HD  (N)
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/177
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  AMERICA 24 HQ" tvg-logo="https://static.epg.best/ar/America24.ar.png" group-title="││TV││ARGENTINA ",││ARG││  AMERICA 24 HQ
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/178
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││ BOLIVISION [HD]" tvg-logo="https://static.epg.best/bo/Bolivision.bo.png" group-title="││TV││ BOLIVIA",││BOL││ BOLIVISION [HD]
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/179
+#EXTINF:-1 tvg-id="" tvg-name="││BOL│ PAT" tvg-logo="https://static.epg.best/bo/PlusTLT.bo.png" group-title="││TV││ BOLIVIA",││BOL│ PAT
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/180
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││  PAT PLUS" tvg-logo="https://static.epg.best/bo/PlusTLT.bo.png" group-title="││TV││ BOLIVIA",││BOL││  PAT PLUS
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/181
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││  RED ADVENIR" tvg-logo="https://static.epg.best/bo/AbyaYala.bo.png" group-title="││TV││ BOLIVIA",││BOL││  RED ADVENIR
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/182
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││ BOLIVIA TV [HD]" tvg-logo="https://static.epg.best/bo/BoliviaTv.bo.png" group-title="││TV││ BOLIVIA",││BOL││ BOLIVIA TV [HD]
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/183
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA HQ | EXTREMA TV" tvg-logo="https://logos.flamingtext.com/Country-Logos/CR-Logo.png" group-title="││TV││ COSTA RICA",COSTA RICA HQ | EXTREMA TV
+http://proiptvdigic.com:8080/doni/BnG2a3svFD72/185
+
+#EXTINF:-1 tvg-id="" tvg-name="Lo que de verdad importa (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hrfVEsQt1DXntnGEUyG51zJtOx.jpg" group-title="NETFLIX",Lo que de verdad importa (2017)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/111689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La vieja guardia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzYP4eiDmBoVztMUmWtKqMZcUGN.jpg" group-title="NETFLIX",La vieja guardia (2020)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/111981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dakota al rescate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4rotsC1z3SXDqZ5ejHXwbs2viO.jpg" group-title="ESTRENOS 2022",Dakota al rescate (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/112499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Máquina infernal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VuQopunJnHKI1xejbdRUyDbP0S.jpg" group-title="ESTRENOS 2022",La Máquina infernal (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/112654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luck (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5v13A4zZ0ffXqDQMfxKcNu1xzQ.jpg" group-title="ESTRENOS 2022",Luck (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/112673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belleza Maldita (Bad Hair) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25ObiYScyfe2KL9eeY5gjhTX0cq.jpg" group-title="TERROR",Belleza Maldita (Bad Hair) (2021)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/113809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Charlie y la Fábrica de Chocolate (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2x8Ud3xtPmQO0niQ8qlosTmLpR.jpg" group-title="PRIME VIDEO",Charlie y la Fábrica de Chocolate (2005)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/115717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jockey (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMgskfX9BfG6i872hawQC17dPzr.jpg" group-title="ESTRENOS 2021",Jockey (2021)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/116819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zola (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJLCPROp9bmNndurwZpVnOioVpB.jpg" group-title="ESTRENOS 2021",Zola (2020)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/116979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Parásitos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg" group-title="HBO MAX",Parásitos (2019)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/120602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maigret (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKYqbzwnLNvHtxGpR8dWGw03Sa0.jpg" group-title="DRAMA",Maigret (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/120835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El equipo redentor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXu5rPQYean8AktqZHmWb27rOEe.jpg" group-title="ESTRENOS 2022",El equipo redentor (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/121258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 13 atrapados: Cómo sobrevivimos en una cueva de Tailandia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFHQhMNYznbEu6XiTUJaU3VMtbT.jpg" group-title="ESTRENOS 2022",Los 13 atrapados: Cómo sobrevivimos en una cueva de Tailandia (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/121259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El perfecto asesino (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d64S30YeHZlCJzscBXJqC16TtiU.jpg" group-title="DRAMA",El perfecto asesino (1994)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/121715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitán Phillips (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCdaPtrMsJvy639Puw9LH0lKSwh.jpg" group-title="DRAMA",Capitán Phillips (2013)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/121716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oscuros secretos del colegio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuRtSx0XTmB6AIkxVdSFTdR6PfJ.jpg" group-title="TERROR",Oscuros secretos del colegio (2021)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/133150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Vestido De La Novia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3DMPRKEOznPvWcnXX4MlaeY5p7.jpg" group-title="TERROR",El Vestido De La Novia (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/133155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cucuy: The Boogeyman (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fi7yCzIPFek5tLY4coe4178SANJ.jpg" group-title="TERROR",Cucuy: The Boogeyman (2018)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/133163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mia y el león blanco (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlP3Ci2d2A3HuZFzl3OHlDGQrQt.jpg" group-title="INFANTILES",Mia y el león blanco (2018)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/133166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La era de hielo (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rpdhn7p7mDZW2rUXsINf9c6sR5.jpg" group-title="SAGAS",La era de hielo (2002)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/133169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La era de hielo 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnBEdWq5gplaAgTmYFg4cq89mWi.jpg" group-title="SAGAS",La era de hielo 2 (2006)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/133170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La sirena: La leyenda jamás contada (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ah4hLKvjjW6DbZ2pYgvyyEVFppB.jpg" group-title="TERROR",La sirena: La leyenda jamás contada (2018)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/141056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El padrino (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLXd1Cd0XW7DhXayfC0Ok5ago9r.jpg" group-title="DRAMA",El padrino (1972)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/141063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El padrino. Parte II (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbry0W5PRylSUHsYzdiY2FSJwze.jpg" group-title="DRAMA",El padrino. Parte II (1974)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/141064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo I (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYHRcd9p3rV3t3w8MHGaA7wdIBl.jpg" group-title="ACCION",Rambo I (1982)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/141505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: Acorralado Parte II (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDsrygpyGl5o5hkvpV5JzK85dYE.jpg" group-title="ACCION",Rambo: Acorralado Parte II (1985)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/141521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo III (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg" group-title="ACCION",Rambo III (1988)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/141522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Rambo (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJt6VOjTbgGlIggZbTO4WxqsE9u.jpg" group-title="ACCION",John Rambo (2008)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/141523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karma (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvRtAQKk3FxW4UnU54UJGEjMJzZ.jpg" group-title="TERROR",Karma (2018)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/142589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Knight (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg" group-title="ACCION",The Dark Knight (2008)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/142815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inception (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNxqwtyHMNQwKWoFYDqcYTui5Ok.jpg" group-title="ACCION",Inception (2010)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/142836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dos suegros y un destino " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9D1yk79TLvxHLh5608IbJ5q28Hf.jpg" group-title="DRAMA",Dos suegros y un destino 
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/143216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cielo rojo sangre " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBkdKValTGR64hvciuWX3O8fwUe.jpg" group-title="DRAMA",Cielo rojo sangre 
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/143244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bonita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlQDLwIwXhaOOJdhYPcxdH7Zm7l.jpg" group-title="ESTRENOS 2022",Bonita (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/143992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin novedad en el frente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTfqiOZ4bZZZpIJp8sXT1UB6QS5.jpg" group-title="ESTRENOS 2022",Sin novedad en el frente (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/147756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deinfluencer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pA481nOxTQBnqsMDf8kjuB2OGxe.jpg" group-title="TERROR",Deinfluencer (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/147876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Adam (2022) HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eQMzMd2qsZkAJbk4wekp3Crg54.jpg" group-title="ESTRENOS 2022",Black Adam (2022) HD
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/147883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Secuestro de Daniel Rye (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMM6bXeAqRKJXVr2pvAOCfkAkKg.jpg" group-title="ACCION",El Secuestro de Daniel Rye (2019)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/147915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Persecución mortal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRbaEeasR06mftDlA0cOy6NAvuk.jpg" group-title="ACCION",Persecución mortal (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/147916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bonita (Cici) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXtXwZLR9f1sAruSET3oJVsdRHe.jpg" group-title="ESTRENOS 2022",Bonita (Cici) (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/147917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Payaso de Green Bay (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNJxfReli7p3uAj5Da9V0zKHQly.jpg" group-title="TERROR",El Payaso de Green Bay (2019)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/147927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche sin paz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/piA9ny345UyIMGp0lKYtPJ3RKCa.jpg" group-title="ESTRENOS 2022",Noche sin paz (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/161413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey Shakir: ¡A reciclar! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTgFwoqoBv5uVdnWMhiR7TuS3MJ.jpg" group-title="ESTRENOS 2022",El rey Shakir: ¡A reciclar! (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/171054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mindcage (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffl9uPTHIlxlZp361JtEubgUgI5.jpg" group-title="ESTRENOS 2022",Mindcage (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/171055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wrong Place (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlEtOQAQVy6eW65sHz3UduvzRK.jpg" group-title="ESTRENOS 2022",Wrong Place (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/171056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devotion. Una historia de héroes (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxXJLtFRLnTP3Wm8g17i8ABxQ8o.jpg" group-title="ESTRENOS 2022",Devotion. Una historia de héroes (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/171057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="House Party (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKovzRJWz4brwxogYH8vaIoMOeU.jpg" group-title="ESTRENOS 2023",House Party (2023)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/171058.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos: El retorno del rey (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg" group-title="CIENCIA FICCION",El señor de los anillos: El retorno del rey (2003)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/171380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOSANILLOS - LA COMUNIDAD DEL ANILLO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg" group-title="CIENCIA FICCION",EL SEÑOR DE LOSANILLOS - LA COMUNIDAD DEL ANILLO
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/171381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos: Las dos torres (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHEU9067PL8iIZULg7q58NvoWlS.jpg" group-title="CIENCIA FICCION",El señor de los anillos: Las dos torres (2002)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/171382.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Santa Camp (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/112EM6PcwrUYtfN8MU8eArDUcDy.jpg" group-title="CINE NAVIDAD ❄❅❆",Santa Camp (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="David y los elfos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNjQUytRwW9p2yfUdlGX6DoL3Gb.jpg" group-title="CINE NAVIDAD ❄❅❆",David y los elfos (2021)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Regalo Prometido 2 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRL1YWfIPWAJDKlVepFYCBdwzZc.jpg" group-title="CINE NAVIDAD ❄❅❆",El Regalo Prometido 2 (2014)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Era de Hielo: Una Navidad tamaño mamut (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmBJLmtuuzJ8PJYvw5CU7qt1WdI.jpg" group-title="CINE NAVIDAD ❄❅❆",La Era de Hielo: Una Navidad tamaño mamut (2011)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Navidad especial de ALF" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1987/12/w1280/87NnM5Xjm6pArXPledNhv2Do3uQ.jpg" group-title="CINE NAVIDAD ❄❅❆",La Navidad especial de ALF
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La bella y la bestia: Una Navidad encantada (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yT0XBIycUUh1vu8nOFHUNdVFuxC.jpg" group-title="CINE NAVIDAD ❄❅❆",La bella y la bestia: Una Navidad encantada (1997)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Estrella de Belén (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b39VGy2mOTRHbW8iV1fQQwb73wy.jpg" group-title="CINE NAVIDAD ❄❅❆",La Estrella de Belén (2017)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Navidad De Luna En Todo El Mundo" tvg-logo="https://hbomax-images.warnermediacdn.com/images/GYtjwdQxBTYm5ggEAAAAC/tile?size=640x360&partner=hbomaxcom&v=b7726572a51cbda0f1578c25855fac5d&host=art-gallery.api.hbo.com&language=es-419" group-title="CINE NAVIDAD ❄❅❆",La Navidad De Luna En Todo El Mundo
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las Crónicas de Navidad (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz2dTKSQ9VSAswb1O9jWS15jqL1.jpg" group-title="CINE NAVIDAD ❄❅❆",Las Crónicas de Navidad (2018)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucas y el espíritu de la Navidad (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPEFKp0yoWjnpfJ8vzSG7rLjNZn.jpg" group-title="CINE NAVIDAD ❄❅❆",Lucas y el espíritu de la Navidad (2006)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los fantasmas de Scrooge (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meN97hs1BtmChq16NFhWxOI8och.jpg" group-title="CINE NAVIDAD ❄❅❆",Los fantasmas de Scrooge (2009)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi pobre angelito (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjc2a9N5pro1xGsSvvnJ1JDXRGm.jpg" group-title="CINE NAVIDAD ❄❅❆",Mi pobre angelito (1990)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi pobre angelito 2: Perdido en Nueva York (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sdiRUyc0ANHJptPhsgb1KL6hoq.jpg" group-title="CINE NAVIDAD ❄❅❆",Mi pobre angelito 2: Perdido en Nueva York (1992)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi pobre angelito 3 (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxlVowXQ2X1ZCDIkuGvJlYS9etx.jpg" group-title="CINE NAVIDAD ❄❅❆",Mi pobre angelito 3 (1997)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Pobre Angelito 4 (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9BAc2Q37oQWcRlMKUkuRilJ90E.jpg" group-title="CINE NAVIDAD ❄❅❆",Mi Pobre Angelito 4 (2002)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navidad cancelada (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cYsVKXdI9UmQ2vkdZK4GCb7dM6.jpg" group-title="CINE NAVIDAD ❄❅❆",Navidad cancelada (2021)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navidad contigo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zHmgbWfqPBxhbzCdElryWek2OS.jpg" group-title="CINE NAVIDAD ❄❅❆",Navidad contigo (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navidad en armonía (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFZY8FvL9Tg86EKrQrvaL68Aexo.jpg" group-title="CINE NAVIDAD ❄❅❆",Navidad en armonía (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navidad en la granja (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBPi8qnCmC8m8Xsx7SkFbvPEimt.jpg" group-title="CINE NAVIDAD ❄❅❆",Navidad en la granja (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navidad sin Filtro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9joxY36uPuFkPYl3sDcFtOCmxOQ.jpg" group-title="CINE NAVIDAD ❄❅❆",Navidad sin Filtro (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Necesitamos una Pequeña Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SDy9c4mtnszNRPvOBGiLwAAnTx.jpg" group-title="CINE NAVIDAD ❄❅❆",Necesitamos una Pequeña Navidad (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oddbods: Navidad en peligro (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEq1gii3EDAyYbJuabCQpb2dAAE.jpg" group-title="CINE NAVIDAD ❄❅❆",Oddbods: Navidad en peligro (2018)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operación Feliz Navidad: La estafa de los duendes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7H6r0SN0BqMY3ZNuJxaOHDVFut.jpg" group-title="CINE NAVIDAD ❄❅❆",Operación Feliz Navidad: La estafa de los duendes (2021)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pocoyo El Árbol De Navidad" tvg-logo="https://i.ytimg.com/vi/-JqN172Kj9g/maxresdefault.jpg" group-title="CINE NAVIDAD ❄❅❆",Pocoyo El Árbol De Navidad
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo! Navidades Tenebrosas" tvg-logo="https://www.clacktv.cl/vtrcontent/media/2022/12/Scooby-Doo-650x520.jpg" group-title="CINE NAVIDAD ❄❅❆",Scooby-Doo! Navidades Tenebrosas
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scrooge: Cuento de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqMEPeRCPJFAXE3ZqWv4eBrdCA4.jpg" group-title="CINE NAVIDAD ❄❅❆",Scrooge: Cuento de Navidad (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shrek Ogrorosa la Navidad" tvg-logo="https://pics.filmaffinity.com/Shreketefeliz_Navidad_La_Navidad_Con_Shrek_TV-456594309-large.jpg" group-title="CINE NAVIDAD ❄❅❆",Shrek Ogrorosa la Navidad
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una generosa Navidad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNvfIcaYjQjczvW6o3qdB7W4vz.jpg" group-title="CINE NAVIDAD ❄❅❆",Una generosa Navidad (2021)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una Navidad De Locos (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgZkugYgYqONzP5MC6hYzVtpIKa.jpg" group-title="CINE NAVIDAD ❄❅❆",Una Navidad De Locos (2004)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una Navidad llena de Gracia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuQlQcTkNc8o6Vm6u0yREmOUZv9.jpg" group-title="CINE NAVIDAD ❄❅❆",Una Navidad llena de Gracia (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un vecino con pocas luces (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icToXS9r12hEXERVBYHBR0kKCeO.jpg" group-title="CINE NAVIDAD ❄❅❆",Un vecino con pocas luces (2006)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un misterio de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHpZwErpGPnRzfY2BKd7amT8zCU.jpg" group-title="CINE NAVIDAD ❄❅❆",Un misterio de Navidad (2022)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ya es Navidad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZdHuzPG0kc6QKRjvAtyMJvlxl7.jpg" group-title="CINE NAVIDAD ❄❅❆",Ya es Navidad (2021)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SpongeBob SquarePants Presents The Tidal Zone (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rozwpOPiTEYnXygWGvUPST4lVQa.jpg" group-title="INFANTILES",SpongeBob SquarePants Presents The Tidal Zone (2023)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casi muerta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSezYOBs7H3RG8rDcjsK3MqluxN.jpg" group-title="HBO MAX",Casi muerta (2023)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones y el dial del destino (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg" group-title="ESTRENOS 2023",Indiana Jones y el dial del destino (2023)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Resurrection of Charles Manson (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdkQCHDsPhPH28MDOsJDaSDgg81.jpg" group-title="ESTRENOS 2023",The Resurrection of Charles Manson (2023)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon (Wu xia)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Or0UWycZsOmAD68j11jx2Spx6W.jpg" group-title="NETFLIX",Dragon (Wu xia)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece: Episodio del East Blue - La gran aventura de Luffy y sus cuatro camaradas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3li3ego0kTrBMDAWZgWmh7nlUqo.jpg" group-title="ANIME",One Piece: Episodio del East Blue - La gran aventura de Luffy y sus cuatro camaradas (2017)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece: Heart of Gold (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBl2IRDcoCYNli0B5j9XCvwh4hr.jpg" group-title="ANIME",One Piece: Heart of Gold (2016)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece: Episodio de las Islas del Cielo Skypiea (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlXwxRqZa0dMssgYLQeoNo4WiXg.jpg" group-title="ANIME",One Piece: Episodio de las Islas del Cielo Skypiea (2018)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Final feliz (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rD3x0J6UCOhtv4Dj5AC7n8bxI5T.jpg" group-title="NETFLIX",Final feliz (2023)
+http://proiptvdigic.com:8080/movie/doni/BnG2a3svFD72/221928.mp4
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="││CHL││  ETC TV [HD]" tvg-logo="https://static.epg.best/cl/ETCTV.cl.png" group-title="││TV││ CHILE",││CHL││  ETC TV [HD]
 http://proiptvdigic.com:8080/pandconv3/HTVFuZ5PePNG/232
 #EXTINF:-1 tvg-id="" tvg-name=" ││ARG││  TNT SPORTS ARGENTINA [HD]" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️", ││ARG││  TNT SPORTS ARGENTINA [HD]
