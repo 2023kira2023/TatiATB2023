@@ -4,81 +4,44 @@
 #EXTM:
  
 #EXTM3U
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+EXTINF:-1 tvg-id="" tvg-name="24/7 MARVEL" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 MARVEL
+http://sdmx.vip:8080/9411/R8SZhUp29McG/2090921
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Marvel Saga Infinito" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 Marvel Saga Infinito
+http://sdmx.vip:8080/9411/R8SZhUp29McG/2133201
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 M|Peliculas Marvel" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M|Peliculas Marvel
+http://sdmx.vip:8080/9411/R8SZhUp29McG/177987
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS ESTRENOS 2022" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 PELICULAS ESTRENOS 2022
+http://sdmx.vip:8080/9411/R8SZhUp29McG/2133347
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Digimon" tvg-logo="http://l3d.us:25461/images/7b8b965ad4bca0e41ab51de7b31363a1.png" group-title="TV | 24/7 Infantil",24/7 | Digimon
+http://sdmx.vip:8080/9411/R8SZhUp29McG/2090878
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Extranormal" tvg-logo="http://atlantis-mx.com/logos/extranormal24.png" group-title="TV | 24/7 Series",24/7 | Extranormal
+http://sdmx.vip:8080/9411/R8SZhUp29McG/2091005
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="http://atlantis-mx.com/logos/futurama24.png" group-title="TV | 24/7 Series",24/7 | Futurama
+http://sdmx.vip:8080/9411/R8SZhUp29McG/2091006
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | GRAVITY FALL" tvg-logo="http://ceoapps.org/logos/gravityfalls.png" group-title="TV | 24/7 Infantil",24/7 | GRAVITY FALL
+http://sdmx.vip:8080/9411/R8SZhUp29McG/2090903
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Rosa de Guadalupe" tvg-logo="http://ceoapps.org/logos/rosa24.png" group-title="TV | 24/7 Series",24/7 | La Rosa de Guadalupe
+http://sdmx.vip:8080/9411/R8SZhUp29McG/2091012
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Ladybug" tvg-logo="http://ceoapps.org/logos/ladybug.png" group-title="TV | 24/7 Infantil",24/7 | Ladybug
+http://sdmx.vip:8080/9411/R8SZhUp29McG/2090890
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Le Temes a la Oscuridad" tvg-logo="http://ceoapps.org/logos/letemesalaoscuridad.png" group-title="TV | 24/7 Retro",24/7 | Le Temes a la Oscuridad
+http://sdmx.vip:8080/9411/R8SZhUp29McG/2090972
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Gatos Samurai" tvg-logo="http://ceoapps.org/logos/gatossamuray.png" group-title="TV | 24/7 Infantil",24/7 | Los Gatos Samurai
+http://sdmx.vip:8080/9411/R8SZhUp29McG/2090891
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Rick y Morty" tvg-logo="http://atlantis-mx.com/logos/rickymorty24.png" group-title="TV | 24/7 Series",24/7 | Rick y Morty
+http://sdmx.vip:8080/9411/R8SZhUp29McG/2091020
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Yu Gi Oh" tvg-logo="http://ceoapps.org/logos/yugioh.png" group-title="TV | 24/7 Infantil",24/7 | Yu Gi Oh
+http://sdmx.vip:8080/9411/R8SZhUp29McG/2090898
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Big Bang Theory" tvg-logo="http://ceoapps.org/logos/bigbang24.png" group-title="TV | 24/7 Series",24/7 | The Big Bang Theory
+http://sdmx.vip:8080/9411/R8SZhUp29McG/2091018
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Walking Dead" tvg-logo="http://ceoapps.org/logos/walkingdead.png" group-title="TV | 24/7 Series",24/7 | The Walking Dead
+http://sdmx.vip:8080/9411/R8SZhUp29McG/2091019
 
 
 
