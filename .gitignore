@@ -4,7 +4,11 @@
 #EXTM:
  
 #EXTM3U
+#EXTINF:-1,tigo 
+https://xdigital.stream:8443/JorgeCastro/3EaMVva/100699
 
+#EXTINF:-1,tigo 2
+https://xdigital.stream:8443/JorgeCastro/3EaMVva/100700
 
 #EXTINF:-1,Bin bang
 http://thex.tv:57999/SIcyIYSudq/JtiRRJQkOu/4727
