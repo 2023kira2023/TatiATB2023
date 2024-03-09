@@ -6,15 +6,53 @@
 #EXTM3U
 
 
-#EXTINF:-1,tigo 
-https://xdigital.stream:8443/JorgeCastro/3EaMVva/100699
 
-#EXTINF:-1,tigo 2
-https://xdigital.stream:8443/JorgeCastro/3EaMVva/100700
-#EXTINF:-1,tigo 4
 
-https://xdigital.stream:8443/JorgeCastro/3EaMVva/1698
+#EXTINF:-1,gogó
+https://xdigital.stream:8443/Giovannajorquera/TaGkENh/783
 
+#EXTINF:-1,Demon slayer
+https://xdigital.stream:8443/movie/Giovannajorquera/TaGkENh/100439.mp4
+
+
+
+
+
+#EXTINF:-1,Distriti comedia 
+https://xdigital.stream:8443/JorgeCastro/3EaMVva/3497
+
+#EXTINF:-1,Red uno 
+http://daleplay.club:8080/2nf9u5881nk/jXPaVGrrX2BG/262710
+
+#EXTINF:-1,Bolivision
+http://daleplay.club:8080/2nf9u5881nk/jXPaVGrrX2BG/262730
+
+#EXTINF:-1,Ceacom
+http://daleplay.club:8080/2nf9u5881nk/jXPaVGrrX2BG/295557
+
+#EXTINF:-1,Delta
+http://daleplay.club:8080/2nf9u5881nk/jXPaVGrrX2BG/295558
+
+#EXTINF:-1,CVC
+http://daleplay.club:8080/2nf9u5881nk/jXPaVGrrX2BG/295560
+
+#EXTINF:-1,ATV
+https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Locomoción
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,panda TV
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,planeta kid
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,gogotv
+https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,F10
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
 #EXTINF:-1,Bin bang
 http://thex.tv:57999/SIcyIYSudq/JtiRRJQkOu/4727
 
