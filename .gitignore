@@ -6,6 +6,15 @@
 #EXTM3U
 
 
+#EXTINF:-1,Argentina tv1
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB3m_aSdQx3eJwyI9VvR8HJ8/ts
+
+#EXTINF:-1,Argentina tv2
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB1VxwpsuuQCOi-2pQ1KTsls/ts
+
+#EXTINF:-1,Tyc
+http://1.84423.xyz:8000/live/luisFearre24/14TSV26Y8W/148457.ts
+
 #EXTINF:-1,unitel
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/182160
 
